@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Web/Mobile Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/WarriorsSami](https://github.com/WarriorsSami)
+- 👨‍💻 All of my projects are available at [https://github.com/WarriorsSami](https://github.com/WarriorsSami), but most of them I'm currently keeping private
 
 - 📫 How to reach me **sbarbutdica@gmail.com or 1147#(سامي قشدي) on Discord**
 

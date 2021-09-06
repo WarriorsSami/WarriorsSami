@@ -1,5 +1,7 @@
 <!-- [![WarriorsSami's GitHub stats](https://github-readme-stats.vercel.app/api?username=WarriorsSami)](https://github.com/anuraghazra/github-readme-stats)-->
 
+<img src="https://github.com/WarriorsSami/WarriorsSami/blob/master/img.jpg" />
+
 <h1 align="center">Hi 👋, I'm Sami Bărbuț-Dică</h1>
 <h3 align="center">A passionate student from Romania</h3>
 

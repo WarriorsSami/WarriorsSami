@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WarriorsSami" alt="warriorssami" /></a> </p>
 
-- 🔭 I’m currently working on **SamiLang Compiler and Phantom**
+- 🔭 I’m currently working on **StarBooks and Phantom**
 
-- 🌱 I’m currently learning **.NET CORE, Django, Spring Boot, gRPC and Microservices**
+- 🌱 I’m currently learning **.NET CORE, Design Patterns, Spring Boot, gRPC and Microservices**
 
 - 👯 I’m looking to collaborate on **Web/Mobile Development**
 

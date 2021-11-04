@@ -17,9 +17,9 @@
 
 - 👯 I’m looking to collaborate on **Web/Mobile Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/WarriorsSami](https://github.com/WarriorsSami), but most of them I'm currently keeping private
+- 👨‍💻 All of my projects are available at [https://github.com/WarriorsSami](https://github.com/WarriorsSami)
 
-- 📫 How to reach me **sbarbutdica@gmail.com or 1147#(سامي قشدي) on Discord**
+- 📫 How to reach me **sbarbutdica@gmail.com or 1147#(سامي) on Discord**
 
 - ⚡ Fun fact **I love Warrior Cats novels and Dorian Popa's vibe**
 

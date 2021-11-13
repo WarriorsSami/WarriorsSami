@@ -23,6 +23,8 @@
 
 - ⚡ Fun fact **I love Warrior Cats novels and Dorian Popa's vibe**
 
+- My Resume - [https://warriorssami.github.io/My-Resume/index.html](https://warriorssami.github.io/My-Resume/index.html)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/thalcawe.mavrocordat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thalcawe.mavrocordat" height="30" width="40" /></a>

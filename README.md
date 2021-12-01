@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sami Bărbuț-Dică</h1>
 <h3 align="center">A passionate student from Romania looking for job opportunities in web/mobile development</h3>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/warriorscatsjayfeather/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/thalcawe.mavrocordat)
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>](https://warriorssami.github.io/My-Resume/index.html) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/warriorscatsjayfeather/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/thalcawe.mavrocordat)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WarriorsSami&label=Profile%20views&color=0e75b6&style=flat" alt="warriorssami" /> </p>
 
@@ -22,9 +22,9 @@
 - 📫 How to reach me **sbarbutdica@gmail.com or 1147#(سامي) on Discord**
 
 - ⚡ Fun fact **I love Warrior Cats novels and Dorian Popa's vibe**
-
+<!--
 - My Resume - [https://warriorssami.github.io/My-Resume/index.html](https://warriorssami.github.io/My-Resume/index.html)
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/thalcawe.mavrocordat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thalcawe.mavrocordat" height="30" width="40" /></a>

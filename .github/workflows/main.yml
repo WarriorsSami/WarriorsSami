@@ -1,2 +1,0 @@
-- name: github-update-readme
-  uses: theboi/github-update-readme@v1.3.0

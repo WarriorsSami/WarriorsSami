@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **StarBooks and Lisor**
 
-- 🌱 I’m currently learning **Flutter, .NET CORE and Angular**
+- 🌱 I’m currently learning **Flutter, .NET Core, Rust, gRPC and Microservices**
 
 - 👯 I’m looking to collaborate on **Web/Mobile Development**
 

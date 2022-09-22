@@ -20,9 +20,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/WarriorsSami](https://github.com/WarriorsSami)
 
-- 📫 How to reach me **sbarbutdica@gmail.com or 1147#(سامي) on Discord**
+- 📫 How to reach me **sbarbutdica@gmail.com or `pub trait (سامي) <'sami> {}#1147` on Discord**
 
-- ⚡ Fun fact **I love Warrior Cats novels and Dorian Popa's vibe**
+- ⚡ Fun fact **I love Warrior Cats novels, Dorian Popa's vibe and CineStieCe Podcast**
 <!--
 - My Resume - [https://warriorssami.github.io/My-Resume/index.html](https://warriorssami.github.io/My-Resume/index.html)
 -->

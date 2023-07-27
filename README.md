@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WarriorsSami" alt="warriorssami" /></a> </p>
 
-- 🔭 I’m currently working on **StarBooks and Lisor**
+- 🔭 I’m currently working on **Pantheonix**
 
-- 🌱 I’m currently learning **Flutter, .NET Core, Rust, gRPC and Microservices**
+- 🌱 I’m currently improving my overall skills related to **Flutter, .NET Core, Rust, Go, gRPC and Microservices**
 
 - 👯 I’m looking to collaborate on **Web/Mobile Development**
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **sbarbutdica@gmail.com or `pub trait (سامي) <'sami> {}#1147` on Discord**
 
-- ⚡ Fun fact **I love Warrior Cats novels, Dorian Popa's vibe and CineStieCe Podcast**
+- ⚡ Fun fact **I love Warrior Cats novels, B.U.G. Mafia and USP podcast**
 <!--
 - My Resume - [https://warriorssami.github.io/My-Resume/index.html](https://warriorssami.github.io/My-Resume/index.html)
 -->

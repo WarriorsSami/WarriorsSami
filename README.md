@@ -3,7 +3,7 @@
 <img src="https://github.com/WarriorsSami/WarriorsSami/blob/master/img.jpg" />-->
 
 <h1 align="center">Hi 👋, I'm Sami Bărbuț-Dică</h1>
-<h3 align="center">A passionate student from Romania looking for job opportunities in web/mobile development</h3>
+<h3 align="center">A passionate student from Romania looking for job opportunities in web/mobile/cloud development</h3>
 
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>](https://warriorssami.github.io/My-Resume/index.html) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/mwlite/in/sami-b%C4%83rbu%C8%9B-dic%C4%83-199782190)  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/warriorscatsjayfeather/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/thalcawe.mavrocordat)
 [![LeetCode user Warriorscats](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FWarriorscats&logo=leetcode&logoColor=yellow)](https://leetcode.com/Warriorscats/)
@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WarriorsSami" alt="warriorssami" /></a> </p>
 
-- 🔭 I’m currently working on **Pantheonix**
+- 🔭 I’m currently working on **Bit** - a Rust based Git clone
 
 - 🌱 I’m currently improving my overall skills related to **Flutter, .NET Core, Rust, Go, gRPC and Microservices**
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **sbarbutdica@gmail.com or `pub trait (سامي) <'sami> {}#1147` on Discord**
 
-- ⚡ Fun fact **I love Warrior Cats novels, B.U.G. Mafia and USP podcast**
+- ⚡ Fun fact **I love Warrior Cats novels, Eminem and The Walking Dead**
 <!--
 - My Resume - [https://warriorssami.github.io/My-Resume/index.html](https://warriorssami.github.io/My-Resume/index.html)
 -->
